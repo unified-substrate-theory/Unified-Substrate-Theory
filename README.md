@@ -1,3 +1,20 @@
+# Unified Substrate Theory (UST)
+
+A consolidated research archive presenting the structure, motivation, and supporting materials for Unified Substrate Theory — a unification framework developed by Dustin Lee.
+
+## Contents
+- **Papers** – formal manuscripts and derivations  
+- **Books** – long‑form explanations and companion texts  
+- **Diagrams** – conceptual and structural illustrations  
+- **Notes** – working documents and development logs  
+- **Drafts** – in‑progress materials
+
+## Purpose
+This repository serves as a public, timestamped record of the development of UST, providing transparency, accessibility, and a stable reference for future work.
+
+## Author
+**Dustin Lee**  
+Independent researcher, Eastern North Carolina  
 ## Hi there 👋
 
 <!--
