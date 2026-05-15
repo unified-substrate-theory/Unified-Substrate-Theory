@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20197731.svg)](https://doi.org/10.5281/zenodo.20197731)
+
 # Unified Substrate Theory (UST)
 
 A consolidated research archive presenting the structure, motivation, and supporting materials for Unified Substrate Theory — a unification framework developed by Dustin Lee.
