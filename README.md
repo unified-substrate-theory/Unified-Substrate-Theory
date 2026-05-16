@@ -33,3 +33,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+## Citation
+
+If you utilize this framework, reference these derivations, or build upon the Unified Substrate Theory in your own academic work, please cite this repository using the following format:
+
+### Formal APA Citation
+> Lee, D. (2026). *Unified Substrate Theory: An Open-Science Theoretical Physics Framework*. GitHub Repository. https://github.com
+
+### BibTeX Entry
+```bibtex
+@misc{lee2026ust,
+  author        = {Lee, Dustin},
+  title        = {Unified Substrate Theory: An Open-Science Theoretical Physics Framework},
+  year         = {2026},
+  publisher    = {GitHub},
+  journal      = {GitHub Repository},
+  howpublished \(= {\url{https://github.com}} \)}
+```
