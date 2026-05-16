@@ -1,36 +1,38 @@
-# Unified Substrate Theory
+Unified Substrate Theory (UST)
+Unified Substrate Theory is an independent research framework proposing that quantum behavior, gravitation, field dynamics, and consciousness emerge from a single continuous substrate with well‑defined physical laws. This repository organizes the working documents, derivations, engineering notes, and experimental plans that develop and test the theory.
 
-An open-science research framework presenting the development and evaluation of the Unified Substrate Theory (UST). This repository serves as a centralized archive for formal manuscripts, foundational derivations, and supporting materials.
+Core Components
+Theory Overview — summary of the framework and its motivation
 
-## Repository Structure
+Mathematical Formulation — field equations, action, dispersion relations
 
-* **Books** – comprehensive textbooks and extensive foundational literature.
-* **Derivations** – step-by-step mathematical proofs, raw formulas, and verification sheets.
-* **Diagrams** – conceptual and structural illustrations of substrate dynamics.
-* **Papers** – formal manuscripts and in-progress materials prepared for distribution.
+Topological Sector — vortices, solitons, attractors, stability structures
 
----
+Consciousness Model — phase‑locked recursive modes and identity loops
 
-## License
+Engineering Notes — device concepts, detectors, emitters, cavity designs
 
-This project is licensed under the Creative Commons Attribution 4.0 International License (CC-BY-4.0). You are free to share and adapt this material for any purpose, provided appropriate credit is given.
+Experimental Program — testable predictions and low‑cost experimental pathways
 
----
+Repository Structure
+/docs — manuscripts, derivations, appendices
 
-## Citation
+/math — equations, operators, stability analyses
 
-If you utilize this framework, reference these derivations, or build upon the Unified Substrate Theory in your own work, please cite this repository:
+/experiments — device designs, test rigs, measurement plans
 
-### Formal APA Citation
-> Lee, D. (2026). *Unified Substrate Theory: An Open-Science Theoretical Physics Framework*. GitHub Repository. https://github.com
+/figures — diagrams and visual references
 
-### BibTeX Entry
-```bibtex
-@misc{lee2026ust,
-  author       = {Lee, Dustin},
-  title        = {Unified Substrate Theory: An Open-Science Theoretical Physics Framework},
-  year         = {2026},
-  publisher    = {GitHub},
-  journal      = {GitHub Repository},
-  howpublished \(= {\url{https://github.com}} \)}
-```
+/notes — informal development notes and scratch work
+
+Goals
+Build a coherent, testable physical framework
+
+Produce clear documentation for review and replication
+
+Develop practical, low‑cost experiments
+
+Maintain an open, structured research record
+
+Status
+Active development. Documents are updated frequently as the framework evolves.
