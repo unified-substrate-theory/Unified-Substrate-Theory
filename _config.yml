@@ -1,4 +1,17 @@
 title: Unified Substrate Theory
-description: A public research archive for Unified Substrate Theory.
-theme: jekyll-theme-minimal
-show_downloads: true
+description: Public research archive for UST
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-include-cache
+
+# Required for GitHub project pages
+url: "https://unified-substrate-theory.github.io"
+baseurl: "/Unified-Substrate-Theory"
+
+# Navigation
+header_pages:
+  - index.md
+
+# Logo
+logo: "/Unified-Substrate-Theory/assets/Copilot_20260530_150710.png"
