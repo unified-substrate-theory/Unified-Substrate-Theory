@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Unified Substrate Theory logo" />
+  <img src="/Unified-Substrate-Theory/assets/Copilot_20260530_150710.png" alt="UST logo">
 </p>
 
 # Unified Substrate Theory
