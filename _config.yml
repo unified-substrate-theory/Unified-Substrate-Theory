@@ -1,8 +1,8 @@
-title: Unified Substrate Theory
-description: Public research archive for UST
-theme: just-the-docs
+collections:
+  docs:
+    output: true
 
-url: "https://unified-substrate-theory.github.io"
-baseurl: "/Unified-Substrate-Theory"
-
-color_scheme: dark
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
