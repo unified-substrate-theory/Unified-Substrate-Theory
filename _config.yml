@@ -6,10 +6,7 @@ remote_theme: just-the-docs/just-the-docs
 url: "https://unified-substrate-theory.github.io"
 baseurl: "/Unified-Substrate-Theory"
 
-# IMPORTANT: Just the Docs expects logo paths WITHOUT the baseurl.
 logo: "/assets/Copilot_20260530_150710.png"
 
 search_enabled: true
 color_scheme: dark
-
-nav_order: 1
