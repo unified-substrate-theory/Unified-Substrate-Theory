@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Unified Substrate Theory logo" />
+</p>
+
 # Unified Substrate Theory
 
 Unified Substrate Theory replaces abstraction with mechanism.  
