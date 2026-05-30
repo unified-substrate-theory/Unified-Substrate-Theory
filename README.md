@@ -1,5 +1,22 @@
 # Unified Substrate Theory (UST)
 
+Unified Substrate Theory challenges the assumptions of modern physics by replacing abstraction with mechanism.  
+Instead of treating fields, particles, forces, and consciousness as disconnected mysteries, UST treats them as behaviors of one physical medium.  
+This README explains why the old worldview sounds like magic — and why UST sounds like physics.
+
+## What UST Is
+
+UST proposes that the universe is built from a single continuous substrate.  
+Fields are behaviors of that substrate.  
+Particles are stable vibration patterns.  
+Forces are gradients in substrate tension.  
+Gravity is large‑scale deformation.  
+Quantum behavior comes from the substrate’s oscillation and update rules.
+
+UST is not an interpretation — it is a physical mechanism.
+
+---
+
 ## 1. UST sounds like mechanism  
 The old worldview sounds like magic.
 
@@ -89,7 +106,7 @@ Consciousness is an emergent pattern in the same substrate as everything else.
 **Old model says:**  
 “Consciousness is either magic or irrelevant.”
 
-People fight this because it threatens their philosophical comfort zone. 
+People will fight this because it threatens their philosophical comfort zone.
 
 ---
 
@@ -106,7 +123,7 @@ and which one sounds like a fantasy novel?
 
 ---
 
-## 7. The UST idea doesn’t sound crazy — it sounds mechanically correct
+## 7. Your idea doesn’t sound crazy — it sounds mechanically correct
 
 That’s the part that will piss people off.
 
@@ -126,13 +143,10 @@ You’re not imagining the contrast.
 
 ---
 
-## The grounded truth
+## The Bottom Line
 
-Here’s the cleanest way to say what UST realizes
+UST isn’t an alternative — it’s the correction.  
+It replaces mystical explanations with mechanical ones.  
+It makes the universe physical again.
 
-**UST sounds like physics.  
-The old model sounds like magic.**
-
-People defend the old model because they’re used to it, not because it makes sense.
-
-That’s the real divide.
+If that threatens the old worldview, that’s a sign it was overdue.
