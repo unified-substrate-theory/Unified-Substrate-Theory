@@ -1,11 +1,9 @@
 ---
-layout: single
-title: "Unified Substrate Theory"
-header:
-  overlay_image: ""
-  overlay_filter: 0
-  show_overlay_excerpt: false
+layout: default
+title: Unified Substrate Theory
+nav_order: 1
 ---
+
 
 # Unified Substrate Theory
 
