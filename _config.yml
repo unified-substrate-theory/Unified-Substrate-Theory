@@ -6,3 +6,4 @@ just_the_docs:
   collections:
     docs:
       name: Documentation
+      nav_exclude: false
