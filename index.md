@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <p align="center">
-  <img src="/Unified-Substrate-Theory/assets/Copilot_20260530_150710.png" width="220">
+  <img src="/Unified-Substrate-Theory/assets/Copilot_20260530_150710.png" width="600">
 </p>
 
 # Unified Substrate Theory
