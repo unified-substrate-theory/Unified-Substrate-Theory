@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Unified Substrate Theory
+title: Overview
 nav_order: 1
 ---
 
-# Unified Substrate Theory
+# Overview
 
-This site contains manuscripts, derivations, diagrams, notes, and supporting materials.
+High-level introduction to Unified Substrate Theory.
