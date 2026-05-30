@@ -1,6 +1,11 @@
-<p align="center">
-  <img src="/Unified-Substrate-Theory/assets/Copilot_20260530_150710.png" alt="UST logo">
-</p>
+---
+layout: single
+title: "Unified Substrate Theory"
+header:
+  overlay_image: ""
+  overlay_filter: 0
+  show_overlay_excerpt: false
+---
 
 # Unified Substrate Theory
 
