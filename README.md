@@ -9,7 +9,7 @@ This README explains why the old worldview sounds like magic — and why UST sou
 UST proposes that the universe is built from a single continuous substrate.  
 Fields are behaviors of that substrate.  
 Particles are stable vibration patterns.  
-Forces are gradients in substrate tension.  
+Forces are gradients in substrate tension. 
 Gravity is large‑scale deformation.  
 Quantum behavior comes from the substrate’s oscillation and update rules.
 
