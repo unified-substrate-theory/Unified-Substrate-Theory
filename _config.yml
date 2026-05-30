@@ -1,7 +1,8 @@
 title: Unified Substrate Theory
 description: Public research archive for UST
-
-theme: jekyll-theme-cayman
+theme: just-the-docs
 
 url: "https://unified-substrate-theory.github.io"
 baseurl: "/Unified-Substrate-Theory"
+
+color_scheme: dark
