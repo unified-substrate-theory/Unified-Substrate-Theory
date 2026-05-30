@@ -1,15 +1,19 @@
 title: Unified Substrate Theory
 description: Public research archive for UST
 
+# Use a real theme that works on GitHub Pages
 remote_theme: just-the-docs/just-the-docs
 
+# Required for GitHub project pages
 url: "https://unified-substrate-theory.github.io"
 baseurl: "/Unified-Substrate-Theory"
 
+# Logo (your actual file name)
 logo: "/Unified-Substrate-Theory/assets/Copilot_20260530_150710.png"
 
+# Theme options
 search_enabled: true
 color_scheme: dark
 
+# Navigation order
 nav_order: 1
-
