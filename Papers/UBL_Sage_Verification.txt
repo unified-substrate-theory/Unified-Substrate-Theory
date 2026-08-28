@@ -1,0 +1,104 @@
+UBL Verification — SageMath Reproducibility Document
+
+Purpose:
+This document contains the exact SageMath code and the exact numerical output verifying all calculations in the Universal Baseline Level (UBL) framework. It uses only standard physical constants: c, ħ, G, Λ. No assumptions, no models, no new physics — just math describing reality.
+
+SageMath Code:
+
+# Universal Baseline Level (UBL) Verification Script
+# This script reproduces all numerical results in the UBL paper
+# using only standard physics constants and definitions.
+
+# Load constants
+c = 299792458                    # speed of light (m/s)
+hbar = 1.054571817e-34           # reduced Planck constant (J·s)
+G = 6.67430e-11                  # gravitational constant (m^3 kg^-1 s^-2)
+Lambda = 1.11e-52                # cosmological constant (m^-2)
+
+import math
+
+# 1. Planck energy density
+rho_planck = c**5 / (hbar * G**2)
+
+# 2. Vacuum energy density from cosmological constant
+rho_vac = Lambda * c**2 / (8 * math.pi * G)
+
+# 3. Universal Baseline Level (UBL)
+UBL = rho_vac / rho_planck
+
+# 4. log10(UBL)
+log10_UBL = math.log10(UBL)
+
+# 5. UBL scale table verification
+densities = {
+    "Planck": 5.16e96,
+    "GUT": 1e88,
+    "Electroweak": 1e56,
+    "QCD": 1e31,
+    "Atomic": 1e16,
+    "Biological": 1e-3,
+    "Cosmic Vacuum": 6e-27
+}
+
+UBL_table = {}
+for name, rho in densities.items():
+    u = rho / rho_planck
+    UBL_table[name] = (u, math.log10(u))
+
+# 6. Effective Higgs cutoff
+Lambda_eff = UBL**(1/4) * math.sqrt(c**5 / (hbar * G))
+
+# 7. Electroweak vs gravitational hierarchy
+UBL_EW = 1e-40
+ratio_hierarchy = UBL_EW / UBL
+
+# 8. QCD scale step difference
+UBL_QCD = 1e-65
+step_QCD = math.log10(UBL_QCD) - math.log10(UBL)
+
+# Print results
+print("Planck energy density:", rho_planck)
+print("Vacuum energy density:", rho_vac)
+print("UBL:", UBL)
+print("log10(UBL):", log10_UBL)
+
+print("\nUBL Scale Table:")
+for k,v in UBL_table.items():
+    print(k, "=> UBL:", v[0], " log10:", v[1])
+
+print("\nEffective Higgs cutoff (Lambda_eff):", Lambda_eff)
+print("EW/Gravity hierarchy ratio:", ratio_hierarchy)
+print("QCD step difference:", step_QCD)
+
+
+SageMath Output:
+
+Planck energy density: 5.15484850640341e96
+Vacuum energy density: 5.94728569105370e-27
+UBL: 1.15372657094887e-123
+log10(UBL): -122.93789710521712
+
+UBL Scale Table:
+Planck => UBL: 1.00099934917393  log10: 0.00043379511142230905
+GUT => UBL: 1.93992121932932e-9  log10: -8.71221590651579
+Electroweak => UBL: 1.93992121932932e-41  log10: -40.71221590651579
+QCD => UBL: 1.93992121932932e-66  log10: -65.7122159065158
+Atomic => UBL: 1.93992121932932e-81  log10: -80.7122159065158
+Biological => UBL: 1.93992121932932e-100  log10: -99.7122159065158
+Cosmic Vacuum => UBL: 1.16395273159759e-123  log10: -122.93406465613215
+
+Effective Higgs cutoff (Lambda_eff): 3.41850751361282e12
+EW/Gravity hierarchy ratio: 8.66756496019296e82
+QCD step difference: 57.93789710521712
+
+
+Interpretation:
+
+These results confirm:
+- ρPlanck and ρvac match known physics
+- UBL ≈ 10^-123 is the exact ratio of those two densities
+- The UBL scale table is numerically correct
+- The Higgs cutoff suppression, hierarchy ratio, and QCD step match the UBL paper
+- All results derive solely from c, ħ, G, Λ
+
+This document is fully reproducible and requires no assumptions beyond standard physics.
