@@ -1,46 +1,47 @@
-Overview
-Unified Substrate Theory (UST) is a physics framework built around one premise:
-the physical world is a continuous vibrating substrate, and all measurable phenomena are expressions of how systems couple into that substrate.
+# Unified Substrate Theory (UST) — Summary
 
-Unified Balance Level (UBL) is the final measurement of UST — the scalar output that represents how “quiet” or “balanced” a system is relative to the substrate.
-UBL = 1 is the fully‑quiet substrate (the black hole / bounce state).
-Everything else is deviation.
+UST says the universe is built from one underlying physical substrate that behaves like a continuous field‑geometry engine. Everything—matter, energy, forces, spacetime, biology, chemistry—comes from how that substrate twists, compresses, flows, and stabilizes into geometric patterns. A particle is a stable geometric knot. A force is a gradient in substrate tension. A chemical bond is two geometric knots sharing a stabilized field‑path. A neuron firing is a substrate‑flow cascade. A black hole is the substrate collapsing into its fully quiet state (UBL = 1). The cosmic cycle is substrate compression → collapse → bounce → expansion → re‑patterning. UST’s claim is that you don’t need separate “laws” for physics, chemistry, biology, or cosmology — just one substrate whose geometry produces all of them.
 
-UST is the theory.
-UBL is the number.
+---
 
-What This Repository Contains
-UST Core — conceptual framework, definitions, diagrams, and the physics logic.
+## Core Ideas
 
-UBL Specification — the measurement definition, math, firmware logic, and how UBL = 1 is computed.
+### Single substrate
+One physical medium under everything. Literal, not metaphorical.
 
-Sensor Architecture — plate‑to‑plate coupling sensors, ADC behavior, noise math, and firmware notes.
+### Geometry = physics
+Shapes, flows, and tensions in the substrate are particles, fields, and forces.
 
-Examples — real-world use cases, biological coherence examples, EM substrate interactions.
+### UBL states
+UBL = 1 is the fully quiet substrate (black hole interior, cosmic bounce).  
+Lower UBL values = more active, patterned states.
 
-Developer Guides — how to implement UBL in firmware, how to interpret readings, how to debug substrate noise.
+### Field‑paths
+Stable geometric routes the substrate prefers to flow along.  
+These become bonds, currents, reaction channels, and biological signaling routes.
 
-UST: The Theory
-The substrate is continuous, vibrating, and coherent.
+### Cosmic cycle
+Compression → quieting → bounce → expansion → new geometry.
 
-Systems interact with it through coupling, not particles.
+### Cross‑domain unification
+The same substrate mechanics explain electrons, chemical reactions, protein folding, muscle contraction, and large‑scale cosmic structure.
 
-Every measurable quantity is a distortion, imbalance, or resonance pattern.
+---
 
-The goal is to quantify how “balanced” a system is relative to the substrate.
+## Why UST Matters
 
-UST gives you the conceptual map.
-UBL gives you the measurement.
+### Physics
+Forces become gradients in substrate tension instead of abstract rules.
 
-UBL: The Final Measurement
-UBL is a scalar between 0 and 1.
+### Chemistry
+Reactions are geometry rearrangements, not electron bookkeeping.
 
-1.0 — fully quiet substrate (black hole / bounce / perfect coherence)
+### Biology
+Cells, proteins, neurons are substrate‑flow machines built from stabilized geometry.
 
-0.0–0.999… — degrees of imbalance, noise, distortion, or coupling inefficiency
+### Cosmology
+Expansion, collapse, dark matter, and dark energy come from substrate state changes.
 
-UBL is computed from the final state of the system after all transformations, filters, and substrate corrections.
-It is not an intermediate value.
-It is the last number.
+### Technology
+Direct substrate manipulation implies energy control, matter shaping, non‑EM communication, and substrate‑flow transportation.
 
-If you want the “one equation” of UST, it’s UBL.
