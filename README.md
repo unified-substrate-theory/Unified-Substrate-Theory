@@ -43,5 +43,4 @@ Cells, proteins, neurons are substrate‑flow machines built from stabilized geo
 Expansion, collapse, dark matter, and dark energy come from substrate state changes.
 
 ### Technology
-Direct substrate manipulation implies energy control, matter shaping, non‑EM communication, and substrate‑flow transportation.
-
+Direct substrate manipulation implies energy control, matter shaping, non‑EM communication, and substrate‑flow transportation, **plus direct substrate‑compute (geometry as computation) and perfectly clean EM signaling with noise removed at the physical level.**
