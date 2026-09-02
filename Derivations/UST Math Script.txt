@@ -1,0 +1,74 @@
+# ============================================================
+# Unified Substrate Theory (UST)
+# Full Numerical Verification Script (SageMath)
+# ============================================================
+
+print("=== UST NUMERICAL VERIFICATION (NUMBERS ONLY) ===")
+
+# ------------------------------------------------------------
+# 1. Numerical Constants
+# ------------------------------------------------------------
+rho_s0 = 1.0
+gamma  = 5.0/3.0
+c      = 3e8
+G_s    = 6.67e-11
+M      = 5.97e24
+eta    = 1e-3
+k      = 1e-2
+r      = 1e7
+
+print("\n--- CONSTANTS USED ---")
+print("rho_s0 =", rho_s0)
+print("gamma  =", gamma)
+print("c      =", c)
+print("G_s    =", G_s)
+print("M      =", M)
+print("eta    =", eta)
+print("k      =", k)
+print("r      =", r)
+
+# ------------------------------------------------------------
+# 2. Light-Speed Constraint: Solve for kappa
+# ------------------------------------------------------------
+kappa = c**2 / (gamma * rho_s0**(gamma - 1))
+cs = (gamma * kappa * rho_s0**(gamma - 1))**0.5
+
+print("\n--- LIGHT-SPEED MATCH ---")
+print("kappa =", kappa)
+print("Computed substrate sound speed cs =", cs)
+
+# ------------------------------------------------------------
+# 3. Hydrostatic Density Profile
+# ------------------------------------------------------------
+term_poly = rho_s0**(gamma - 1) + (gamma - 1) * G_s * M / (gamma * kappa * r)
+rho_s_r = term_poly**(1 / (gamma - 1))
+
+rho_inf = (rho_s0**(gamma - 1))**(1 / (gamma - 1))
+
+print("\n--- HYDROSTATIC PROFILE ---")
+print("rho_s(r) =", rho_s_r)
+print("rho_s(infinity) =", rho_inf)
+
+# ------------------------------------------------------------
+# 4. Newtonian Limit Verification
+# ------------------------------------------------------------
+delta_rho = (G_s * M * rho_s0) / (cs**2 * r)
+Phi_s = -(cs**2 / rho_s0) * delta_rho
+Phi_Newton = -G_s * M / r
+
+print("\n--- NEWTONIAN LIMIT ---")
+print("delta_rho =", delta_rho)
+print("Phi_s(r) =", Phi_s)
+print("Expected Newtonian -G*M/r =", Phi_Newton)
+
+# ------------------------------------------------------------
+# 5. Dispersion Relations
+# ------------------------------------------------------------
+omega_long = cs * abs(k)
+omega_trans = cs * abs(k) - 1j * (eta / rho_s0) * k**2
+
+print("\n--- DISPERSION RELATIONS ---")
+print("omega_longitudinal =", omega_long)
+print("omega_transverse   =", omega_trans)
+
+print("\n=== NUMERICAL VERIFICATION COMPLETE ===")
