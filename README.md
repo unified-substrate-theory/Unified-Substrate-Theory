@@ -1,46 +1,78 @@
-# Unified Substrate Theory (UST) — Summary
+# Unified Substrate Theory (UST)
 
-UST says the universe is built from one underlying physical substrate that behaves like a continuous field‑geometry engine. Everything—matter, energy, forces, spacetime, biology, chemistry—comes from how that substrate twists, compresses, flows, and stabilizes into geometric patterns. A particle is a stable geometric knot. A force is a gradient in substrate tension. A chemical bond is two geometric knots sharing a stabilized field‑path. A neuron firing is a substrate‑flow cascade. A black hole is the substrate collapsing into its fully quiet state (UBL = 1). The cosmic cycle is substrate compression → collapse → bounce → expansion → re‑patterning. UST’s claim is that you don’t need separate “laws” for physics, chemistry, biology, or cosmology — just one substrate whose geometry produces all of them.
+Unified Substrate Theory states that the universe is not running hundreds of separate laws. It is running one mechanism. Every physical quantity — energy, momentum, force, charge, wavelength, flow, state change, curvature, and motion — is a pattern in a continuous medium called the substrate. Geometry is not a separate entity; it is simply a description of how much substrate exists, how fast it shears, and how strongly it curves.
 
----
+Matter = density pattern
+Motion = shear pattern
+Gravity = curvature pattern
+Charge = displacement pattern
+Waves = repeating patterns
+State change = pattern update
 
-## Core Ideas
+All of physics reduces to: pattern * flow * pull
 
-### Single substrate
-One physical medium under everything. Literal, not metaphorical.
+Every constant — c, h, G, e, particle masses — fits directly into that structure.
 
-### Geometry = physics
-Shapes, flows, and tensions in the substrate are particles, fields, and forces.
+---------------------------------------------------------------------
 
-### UBL states
-UBL = 1 is the fully quiet substrate (black hole interior, cosmic bounce).  
-Lower UBL values = more active, patterned states.
+CORE GEOMETRY
 
-### Field‑paths
-Stable geometric routes the substrate prefers to flow along.  
-These become bonds, currents, reaction channels, and biological signaling routes.
+Matter moves according to three geometric quantities:
 
-### Cosmic cycle
-Compression → quieting → bounce → expansion → new geometry.
+1. Mass-geometry: how much substrate is present
+2. Velocity-geometry: how fast the substrate is shearing
+3. Gravity-geometry: how strongly curvature is pulling the substrate
 
-### Cross‑domain unification
-The same substrate mechanics explain electrons, chemical reactions, protein folding, muscle contraction, and large‑scale cosmic structure.
+Every physical formula is just one way of sampling these three geometric fields.
 
----
+Unified update rule:
+DeltaState = flow * pattern * DeltaS
 
-## Why UST Matters
+This is the substrate's step-forward rule. It is the same structure behind energy, waves, gravity, charge, wavelength, and motion.
 
-### Physics
-Forces become gradients in substrate tension instead of abstract rules.
+---------------------------------------------------------------------
 
-### Chemistry
-Reactions are geometry rearrangements, not electron bookkeeping.
+HOW STANDARD CONSTANTS FIT THE STRUCTURE
 
-### Biology
-Cells, proteins, neurons are substrate‑flow machines built from stabilized geometry.
+Energy:
+E = m c^2
+Mass times shear-limit squared.
 
-### Cosmology
-Expansion, collapse, dark matter, and dark energy come from substrate state changes.
+Wave Energy:
+E = h f
+Planck constant times pattern frequency.
 
-### Technology
-Direct substrate manipulation implies energy control, matter shaping, non‑EM communication, and substrate‑flow transportation, **plus direct substrate‑compute (geometry as computation) and perfectly clean EM signaling with noise removed at the physical level.**
+Gravity:
+F = G m1 m2 / r^2
+Curvature times density times density.
+
+Charge Work:
+W = e V
+Displacement times pull.
+
+Wavelength:
+lambda = h / (m c)
+Pattern spacing = Planck geometry / (density * shear).
+
+State Update:
+State_new = State_now + (flow * pattern * DeltaS)
+
+---------------------------------------------------------------------
+
+UNIFIED STATEMENT
+
+Matter moves through a pattern under a pull.
+
+Mass sets the density.
+Velocity sets the shear.
+Gravity sets the curvature.
+Charge sets the displacement.
+Planck sets the step size.
+Light speed sets the shear limit.
+G sets the curvature strength.
+
+Every formula in physics is just one way of measuring how much matter moves, how fast it moves, and how strongly it is pulled.
+
+That is unified physics.
+That is UST.
+That is the entire structure.
